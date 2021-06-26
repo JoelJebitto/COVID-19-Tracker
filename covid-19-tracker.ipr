@@ -4,6 +4,9 @@
   <component name="InspectionProjectProfileManager">
     <profile version="1.0">
       <option name="myName" value="Project Default" />
+      <inspection_tool class="RequiredAttributes" enabled="true" level="WARNING" enabled_by_default="true">
+        <option name="myAdditionalRequiredHtmlAttributes" value="type" />
+      </inspection_tool>
     </profile>
     <version value="1.0" />
   </component>
@@ -12,7 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/covid-19-tracker.iml" filepath="$PROJECT_DIR$/covid-19-tracker.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Python 3.9 (react_web_site)" project-jdk-type="Python SDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="VcsDirectoryMappings">
